@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    /* background-color: #A0C3D2; */
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+
+.top-container{
+    background-color: #B8FFF9;
+    position: relative;
+
+}
+
+.middle-container{
+    background-color: #EFFFFD;
+}
+h1{
+    /* font-family: 'Sacramento', cursive; */
+    /* font-family: "Sofia", sans-serif;
+    font-size:50px; */
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+    color: #66BFBF;
+ }
+ h2{
+     color: #22577E; 
+     font-size: 2rem;
+ }
+ h3{
+    color:#66BFBF;
+ }
+ .mountain-img>img{
+    width: 50%;
+   
+ }
+
+.middle-container>div{
+    margin: auto 30% auto 30%;
+    
+    
+}
+.middle-container>img{
+    width: 50%;
+    margin: auto;
+}
+.top-cloud{
+   margin-left: 10%;
+}
+.bottom-cloud{
+    margin-right: 50%;
+   
+}
+.cloudbirds{
+    /* background-color: red; */
+    position: relative;
+
+
+}
+
+.birds{
+    margin-left: 30%;
+    height: 50px;
+    width: 50px;
+
+}
+.sun{
+    /* margin-top: 20px;
+    margin-left: 20px; */
+    height: 80px;
+    width: 80px;
+    margin-right: 40%;
+}
+.sun-cloud{
+    width: 50%;
+    /* background-color: blue; */
+    display: inline-block;
+    margin-top: 10px;
+}
+
+p{
+    font-weight: bold;
+    margin:0;
+}
+
+.myimg{
+    /* height: 100%; */
+    width: 40%;
+}
+
+.linkedin {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    height: 30px;
+    width: 30px;
+}
+.instagram{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    height: 30px;
+    width: 30px;
+}
+.contact{
+    text-decoration: none;
+    
+}
+
+
+hr{
+    width: 5%;
+    border: solid 6px;
+    color: #E1E5EA;
+    border-style: dotted;
+    border-top-style: none;
+}
+
+
+.code{
+   width: 40%;
+}
+
+.volleyball{
+    
+   width: 40%;
+}
+
+h2{
+    margin: 0; 
+}
+
+.profile>.instagram>img{
+    height: 10%;
+    width: 10%;
+    
+}
+.profile>.linkedin>img{
+    height: 10%;
+    width: 10%;
+}
