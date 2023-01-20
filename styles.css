@@ -141,3 +141,12 @@ h2{
     height: 10%;
     width: 10%;
 }
+
+.contact{
+    color: #22577E;
+}
+.contact:hover{
+    color: #22577E;
+    font-weight: bold;
+   
+}
